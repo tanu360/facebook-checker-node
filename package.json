@@ -1,7 +1,7 @@
 {
   "name": "facebook-checker",
   "version": "1.0.1",
-  "description": "Validate Facebook UIDs",
+  "description": "Validate Facebook UIDs.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
